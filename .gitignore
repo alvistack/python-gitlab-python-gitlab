@@ -25,3 +25,5 @@ venv/
 !.pre-commit-config.yaml
 !.readthedocs.yml
 !.renovaterc.json
+
+.pybuild/
