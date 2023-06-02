@@ -1,0 +1,5 @@
+python-gitlab (100:3.14.0-1) UNRELEASED; urgency=medium
+
+  * https://github.com/python-gitlab/python-gitlab/releases/tag/v3.14.0
+
+ -- Wong Hoi Sing Edison <hswong3i@pantarei-design.com>  Wed, 12 Apr 2023 00:11:59 +0800
