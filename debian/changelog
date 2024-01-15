@@ -1,0 +1,5 @@
+python-gitlab (100:5.5.0-1) UNRELEASED; urgency=medium
+
+  * https://github.com/python-gitlab/python-gitlab/releases/tag/v5.5.0
+
+ -- Wong Hoi Sing Edison <hswong3i@pantarei-design.com>  Tue, 28 Jan 2025 23:49:18 +0800
