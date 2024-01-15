@@ -1,0 +1,4 @@
+gitlab-cli: copyright-without-copyright-notice
+gitlab-cli: initial-upload-closes-no-bugs
+gitlab-cli: no-manual-page
+gitlab-cli: zero-byte-file-in-doc-directory
