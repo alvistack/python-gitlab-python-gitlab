@@ -1,0 +1,4 @@
+python-gitlab source: file-without-copyright-information
+python-gitlab source: no-debian-changes
+python-gitlab source: source-contains-prebuilt-windows-binary
+python-gitlab source: source-package-encodes-python-version

@@ -1,0 +1,4 @@
+python3-gitlab: copyright-without-copyright-notice
+python3-gitlab: initial-upload-closes-no-bugs
+python3-gitlab: no-manual-page
+python3-gitlab: zero-byte-file-in-doc-directory

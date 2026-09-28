@@ -1,0 +1,7 @@
+*.substvars
+*debhelper*
+.debhelper
+files
+gitlab-cli
+python3-gitlab
+tmp
